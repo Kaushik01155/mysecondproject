@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client'
-// import Home from './Home' // Remove if not used
+ import Home from './Home';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/Style.css';
 import React from "react";
