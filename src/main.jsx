@@ -1,8 +1,6 @@
 import { createRoot } from 'react-dom/client'
- import Home from './Home';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/Style.css';
-import React from "react";
 import { Dashbord } from './Dashbord';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Menu } from './Menu'; // <-- Fixed case
